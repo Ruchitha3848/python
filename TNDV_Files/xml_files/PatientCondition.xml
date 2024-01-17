@@ -1,0 +1,472 @@
+ <root>
+    <row>
+        <PatientConditionId>1</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>1</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>1</ICDCodeId>
+        <OnsetDate>2017/04/28 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Started few weeks back and it went worse</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>2</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>1</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>2</ICDCodeId>
+        <OnsetDate>2016/05/01 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>3</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>2</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>3</ICDCodeId>
+        <OnsetDate>2016/05/04 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>The resting posture. Note whether there is unusual rotation or clawing of the hand and whether the patient is symmetrical.</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>4</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>2</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>4</ICDCodeId>
+        <OnsetDate>2016/05/07 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>5</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>5</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>3</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>5</ICDCodeId>
+        <OnsetDate>2016/05/10 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>6</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>3</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>6</ICDCodeId>
+        <OnsetDate>2016/05/13 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>Severe pain in my Knee and toe</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>7</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>4</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>7</ICDCodeId>
+        <OnsetDate>2016/05/16 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>Flexion and extension of the elbow</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>8</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>4</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>8</ICDCodeId>
+        <OnsetDate>2016/05/19 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>2</SeverityCode>
+        <Note>Postural difficulties and seating arrangements</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>9</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>5</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>9</ICDCodeId>
+        <OnsetDate>2016/05/22 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>4</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Signs and symptoms of cancer are reduced</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>10</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>5</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>10</ICDCodeId>
+        <OnsetDate>2016/05/25 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Muscle contraction is visible but there is no movement of the joint</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>11</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>9</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>1</ICDCodeId>
+        <OnsetDate>2016/05/22 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Started few weeks back and it went worse</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>12</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>10</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>2</ICDCodeId>
+        <OnsetDate>2016/06/02 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>Demo</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>13</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>6</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>3</ICDCodeId>
+        <OnsetDate>2016/06/04 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>14</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>6</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>4</ICDCodeId>
+        <OnsetDate>2016/06/06 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>Look for involuntary movements such as tremor, tics, myoclonic jerks, chorea or athetosis</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>15</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>7</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>5</ICDCodeId>
+        <OnsetDate>2016/06/08 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>16</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>8</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>6</ICDCodeId>
+        <OnsetDate>2016/06/10 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>Severe pain in my Knee and toe</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>17</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>4</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>7</ICDCodeId>
+        <OnsetDate>2016/06/12 00:00:00</OnsetDate>
+        <EndDate>2017/06/30 00:00:00</EndDate>
+        <StatusCode>3</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>18</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>7</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>8</ICDCodeId>
+        <OnsetDate>2016/06/14 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>4</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Full and normal power against resistance</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>19</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>8</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>9</ICDCodeId>
+        <OnsetDate>2016/06/16 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>20</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>9</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>10</ICDCodeId>
+        <OnsetDate>2016/06/18 00:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Flexion, extension, adduction and abduction of the fingers and thumbs</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>1</CreatedBy>
+        <CreatedDate>2017/08/04 00:00:00</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>21</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>2</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>4</ICDCodeId>
+        <OnsetDate>2021/06/14 12:53:09</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>2</SeverityCode>
+        <Note></Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>6</CreatedBy>
+        <CreatedDate>2021/06/14 08:23:49</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>22</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>2</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>1980</ICDCodeId>
+        <OnsetDate>2021/06/14 13:40:43</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>3</SeverityCode>
+        <Note>Displacement of cardiac pulse generator (battery)</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>6</CreatedBy>
+        <CreatedDate>2021/06/14 09:12:46</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>23</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>13</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>1033</ICDCodeId>
+        <OnsetDate>2021/06/14 13:43:42</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>2</SeverityCode>
+        <Note>Unsp fracture of unsp toe(s), subs for fx w nonunion</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>6</CreatedBy>
+        <CreatedDate>2021/06/14 09:14:01</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>24</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>13</PatientId>
+        <ICDTypeCode>1</ICDTypeCode>
+        <ICDCodeId>379</ICDCodeId>
+        <OnsetDate>2021/05/31 23:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Tick-borne relaps fever</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>6</CreatedBy>
+        <CreatedDate>2021/06/14 09:17:48</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>25</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>14</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>1337</ICDCodeId>
+        <OnsetDate>2021/06/15 14:33:15</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>2</SeverityCode>
+        <Note>Gastrojejunal ulcer</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>4</CreatedBy>
+        <CreatedDate>2021/06/15 10:04:43</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    <row>
+        <PatientConditionId>26</PatientConditionId>
+        <ExternalId></ExternalId>
+        <PatientId>2</PatientId>
+        <ICDTypeCode>2</ICDTypeCode>
+        <ICDCodeId>1688</ICDCodeId>
+        <OnsetDate>2021/05/31 23:00:00</OnsetDate>
+        <EndDate></EndDate>
+        <StatusCode>1</StatusCode>
+        <SeverityCode>1</SeverityCode>
+        <Note>Poisn by phenothiaz antipsychot/neurolept, self-harm, init</Note>
+        <IsDeleted>0</IsDeleted>
+        <CreatedBy>6</CreatedBy>
+        <CreatedDate>2021/06/15 10:22:03</CreatedDate>
+        <UpdatedBy></UpdatedBy>
+        <UpdatedDate></UpdatedDate>
+        <LastSync></LastSync>
+    </row>
+    
+</root>
+      

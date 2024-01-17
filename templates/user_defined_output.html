@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comparison Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='user_defined.css') }}">
+</head>
+<body>
+    <!-- The content of the Flask view function will be inserted here -->
+    {% if report %}
+        {{ report | safe }}
+    {% else %}
+        <p>Sachin.</p>
+    {% endif %}
+</body>
+</html>

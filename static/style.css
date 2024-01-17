@@ -1,0 +1,159 @@
+
+header {
+  text-align: center;
+  background-color:  navy;
+  color: white;
+  padding: 1px;
+  border-radius: 5px;
+}
+
+
+body {
+    background-color: #e9e7e7f4; /* Replace with your desired very light grey color code */
+  }
+
+  .report-container {
+    text-align: center;
+    font-size: 16px;
+    color: #171717;
+  }
+
+  
+  /* Styling for the left column */
+  /* .left-column {
+    flex: 1;
+  }
+
+  .left-column {
+    font-size: 16px;
+    color: #171717;
+    text-align: center;
+  }
+  
+  .left-column  {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #191919;
+    text-align: center;
+  
+  } */
+
+  .report-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #333; /* Darker and thicker border for the whole table */
+  }
+  
+  .report-table th {
+    background-color:#d9e7f7  ;
+    color: black;
+   
+  }
+  .report-table td {
+    background-color: white;
+    
+   
+  }
+
+
+  .report-table th,
+  .report-table td {
+    text-align: center;
+    border: 2px solid #333; /* Darker and thicker border for cells */
+    padding: 8px;
+  }
+  
+  
+  
+  /* Styling for the comparison result */
+  .comparison_result {
+   
+    margin: 0 auto;
+    text-align: center;
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    padding: 5px 20px; /* Adjust padding for desired button size */
+    border-radius: 5px;
+    display: inline-block; /* Display as inline block to adjust width */
+    cursor: pointer; /* Show cursor as pointer on hover */
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Green for matching data */
+  .comparison_result.true {
+    background-color: #3cba54;
+  }
+  
+  /* Red for non-matching data */
+  .comparison_result.false {
+    background-color: #db3236;
+  }
+
+
+  .comparison_tagline {
+   
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    padding: 1px;
+    border-radius: 5px;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  /* Green for matching data
+  .comparison_tagline {
+    background-color: #3cba54;
+  }
+   */
+  /* Red for non-matching data */
+  .comparison_tagline.false {
+    background-color: #db3236;
+  }
+
+
+  .container {
+    display: flex;
+    overflow-y: scroll;
+    color: black;
+  }
+
+  .left-table {
+    flex: 1;
+    height: 400px; 
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    
+  }
+  .right-table {
+    flex: 1;
+    height: 400px; 
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    
+  }
+  .red {
+
+    color: red; /* Red color for links with a value */
+    font-weight: bold;
+  }
+  
+  .green {
+   
+    color: green; /* Green color for links without a value */
+    font-weight: bold;
+  }
+
+
+
+
+
+
+

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data Validation Tool</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Arial, sans-serif;
+      text-align: center;
+      margin:50px auto;
+      background-color: #eeecec;
+    }
+    h1 {
+      margin-bottom: 30px;
+      color: #060606;
+      font-size: 24px;
+      text-transform: uppercase;
+    }
+    form {
+      display: inline-block;
+      border: 1px solid white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgb(244, 240, 240);
+      background-color: #ffffff;
+      text-align: left;
+    }
+    label {
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+      width: 350px;
+      color: #333;
+      font-size: 16px;
+    }
+    .password-field {
+      display: none;
+    }
+    input[type="text"], select {
+      padding: 12px;
+      width: 350px;
+      box-sizing: border-box;
+      border: 1px solid #d9e7f7;
+      border-radius: 5px;
+      font-size: 16px;
+      background-color: #d9e7f7;
+    }
+    input[type="password"], select {
+      padding: 12px;
+      width: 350px;
+      box-sizing: border-box;
+      border: 1px solid #d9e7f7;
+      border-radius: 5px;
+      font-size: 16px;
+      background-color: #d9e7f7;
+    }
+    select {
+      background-color: #d9e7f7;
+    }
+    button {
+      padding: 12px 24px;
+      background-color: #84befc;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 18px;
+      border-radius: 5px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-transform: uppercase;
+      display: block;
+      margin: 0 auto;
+    }
+    button:hover {
+      background-color: #0551a2;
+    }
+
+    /* Additional styles for conditional display */
+    .query-field {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Data Validation Tool</h1>
+  <form  id="validationForm" method="POST"  action="#">
+    
+    
+    
+    <label for="validation_type">Select the Validation type:</label>
+    <select id="validation_type" name="validation_type">
+      <option value="">-- Select Type --</option>
+      <option value="schema">Schema Validation</option>
+      <option value="many_tables">Multiple Table Validation</option>
+      <option value="single_table">Single Table Validation</option>
+      <option value="user_defined">User Query Validation</option>
+    </select>
+    <br><br>
+    <div class="file-input-field">
+      <label for="file_input">Select the Source:</label>
+      <select id="file_input" name="file_input">
+        <option value="">-- Select File --</option>
+      </select>
+    </div>
+    
+    <br><br>
+    <div class="password-field" style="display: none;">
+      <label for="source_password">Enter the Source Password for Connection:</label>
+      <input type="password" id="source_password" name="source_password">
+    </div>
+    <br><br>
+
+    <div class="query-field" style="display: none;">
+      <label for="user_query_source">Enter your custom query:</label>
+      <textarea id="user_query_source" name="user_query_source" rows="5"></textarea>
+    </div>
+
+    <div class="source_field" id="file_name_container" style="display: block;">
+      <label for="file_name">Enter the name of the Source:</label>
+      <input type="text" id="file_name" name="file_name">
+    </div>
+
+    <div class="schema1"  style="display: none;">
+      <label for="schema1">Enter the name of the source Schema:</label>
+      <input type="text" id="schema1" name="schema1">
+    </div>
+
+
+    <div id="database_container">
+      <label for="database">Select the Target:</label>
+      <select id="database" name="database">
+        <option value="">-- Select Database --</option>
+      </select>
+    </div>
+
+    <br><br>
+    <div class="target_field" style="display:block;">
+      <label for="table">Enter the name of the Target:</label>
+      <input type="text" id="table" name="table">
+    </div>
+    <br><br>
+    <div class="schema2"  style="display: none;">
+      <label for="schema2">Enter the name of the  target Schema:</label>
+      <input type="text" id="schema2" name="schema2">
+    </div>
+    <div class="boolean-input-field" style="display: none;" >
+      <label for="boolean_input">Would you like to enter Tables and Queries:</label>
+      <select id="boolean_input" name="boolean_input">
+        <option value="">-- Select Option --</option>
+        <option value="yes">Yes</option>
+        <option value="no">No</option>
+      </select>
+    </div>
+
+
+
+
+
+    <div class="query_field" style="display:none;">
+      <label for="user_query_target">Enter your custom query:</label>
+      <textarea id="user_query_target" name="user_query_target" rows="5"></textarea>
+    </div>
+
+
+    <div class="target_password" style="display:block;">
+    <label for="password">Enter the Target Password for Connection:</label>
+    <input type="password" id="password" name="password">
+  </div>
+    <br><br>
+    <button type="submit" onclick="updateFormAction()">Generate</button>
+  </form>
+  <script>
+   const validationType = document.getElementById('validation_type');
+const fileInput = document.getElementById('file_input');
+const passwordField = document.querySelector('.password-field');
+const queryField = document.querySelector('.query-field');
+const fileNameContainer = document.getElementById('file_name_container');
+const databaseContainer = document.getElementById('database_container');
+const targetContainer = document.querySelector('.target_field'); // Fix typo here
+const queryContainer = document.querySelector('.query_field');
+const database = document.getElementById('database');
+const targetPassword = document.querySelector('.target_password');
+const schema1=document.querySelector('.schema1');
+const schema2=document.querySelector('.schema2');
+const tableNames=document.querySelector('.boolean-input-field')
+
+validationType.addEventListener('change', () => {
+  fileInput.innerHTML = '';
+  queryField.style.display = 'none';
+  fileNameContainer.style.display = 'block';
+  databaseContainer.style.display = 'block';
+  targetContainer.style.display = 'block'; // Show the target container by default
+  queryContainer.style.display = 'none'; // Hide the query container by default
+
+  if (validationType.value === 'schema') {
+    fileInput.innerHTML = `
+      <option value="">-- Select Database --</option>
+      <option value="Snowflake">Snowflake</option>
+      <option value="SQL_Server">SQL_Server</option>
+      <option value="synapse">Synapse</option>
+    `;
+    database.innerHTML = `
+    <option value="">-- Select Database --</option>
+      <option value="Snowflake">Snowflake</option>
+      <option value="SQL_Server">SQL_Server</option>
+      <option value="synapse">Synapse</option>`;
+      passwordField .style.display = 'block';
+      targetPassword.style.display = 'block';
+      database.addEventListener('change', function() {
+        if (this.value === 'synapse') {
+          targetPassword.style.display = 'none';
+          targetContainer .style.display = 'none';
+          fileNameContainer.style.display='none';
+          schema1.style.display='block';
+          schema2.style.display='block';
+          tableNames.style.display='block';
+
+          } else {
+            targetPassword.style.display = 'block';
+            targetContainer .style.display = 'block';
+            fileNameContainer .style.display='block';
+            schema2.style.display='none';
+            schema1.style.display='none';
+            tableNames.style.display='none';
+
+          }
+        });
+        fileInput.addEventListener('change', function() {
+          if (this.value === 'synapse') {
+            targetPassword.style.display = 'none';
+            targetContainer .style.display = 'none';
+            fileNameContainer.style.display='none';
+            schema1.style.display='block';
+            schema2.style.display='block';
+            tableNames.style.display='block';
+
+            } else {
+              targetPassword.style.display = 'block';
+              targetContainer .style.display = 'block';
+              fileNameContainer.style.display='block';
+              schema2.style.display='none';
+              schema1.style.display='none';
+              tableNames.style.display='none';
+
+            }
+          });
+          
+          
+
+    
+  } else if (validationType.value === 'single_table') {
+    fileInput.innerHTML = `
+      <option value="">-- Select File --</option>
+      <option value="xml">xml</option>
+      <option value="json">json</option>
+      <option value="csv">csv</option>
+      <option value="FlatFile">FlatFile</option>
+      <option value="Snowflake">Snowflake</option>
+      <option value="SQL_Server">SQL_Server</option>
+    `;
+    targetPassword.style.display = 'block';
+    database.innerHTML = `
+    <option value="">-- Select Database --</option>
+      <option value="Snowflake">Snowflake</option>
+      <option value="SQL_Server">SQL_Server</option>`;
+      
+      
+  } else if (validationType.value === 'many_tables') {
+    fileInput.innerHTML = `
+      <option value="">-- Select File --</option>
+      <option value="xml">xml</option>
+      <option value="json">json</option>
+      <option value="csv">csv</option>
+      <option value="FlatFile">FlatFile</option>
+      <option value="azure_blob_csv">Azure Blob Csv</option>
+    `;
+    targetPassword.style.display = 'block';
+    database.innerHTML = `
+    <option value="">-- Select Database --</option>
+      <option value="Snowflake">Snowflake</option>
+      <option value="synapse">Synapse</option>
+      <option value="SQL_Server">SQL_Server</option>
+      <option value="azure_blob_csv">Azure Blob Csv</option>`;
+
+      
+        
+        database.addEventListener('change', function() {
+          if (this.value === 'azure_blob_csv') {
+            targetPassword.style.display = 'none';
+            } else {
+              targetPassword.style.display = 'block';
+            }
+          });
+        database.addEventListener('change', function() {
+          if (this.value === 'synapse' || this.value === 'azure_blob_csv'  ) {
+            targetPassword.style.display = 'none';
+            } else {
+              targetPassword.style.display = 'block';
+            }
+          });  
+        fileInput.addEventListener('change', function() {
+          if (this.value === 'azure_blob_csv') {
+            targetPassword.style.display = 'none';
+            } else {
+                targetPassword.style.display = 'block';
+              }
+            });
+      
+
+  } else if (validationType.value === 'user_defined') {
+    fileInput.innerHTML = `
+      <option value="">-- Select Database --</option>
+      <option value="synapse">synapse</option>
+      <option value="snowflake">Snowflake</option>
+    `;
+
+    database.innerHTML = `
+      <option value="">-- Select Database --</option>
+      <option value="synapse">synapse</option>
+      
+    `;
+    queryField.style.display = 'block';
+    fileNameContainer.style.display = 'none';
+    databaseContainer.style.display = 'block'; // Show the database container
+    targetContainer.style.display = 'none'; // Hide the target container
+    queryContainer.style.display = 'block'; // Show the query container
+    targetPassword.style.display = 'none'; // Hide the target password
+
+    fileInput.addEventListener('change', function() {
+      if (this.value === 'snowflake') {
+        passwordField.style.display = 'block';
+      } else {
+        passwordField.style.display = 'none';
+      }
+    });
+        
+
+  } else {
+    // Reset the form to its default state when none of the conditions match
+    fileInput.innerHTML = '<option value="">-- Select File --</option>';
+    passwordField.style.display = 'none';
+    queryField.style.display = 'none';
+    fileNameContainer.style.display = 'block';
+    databaseContainer.style.display = 'block';
+    targetContainer.style.display = 'none';
+     // Show the target container for other validation types
+  }
+});
+
+fileInput.addEventListener('change', () => {
+  if (fileInput.value === 'Snowflake' || fileInput.value === 'SQL_Server' ) {
+    passwordField.style.display = 'block';
+  } else {
+    passwordField.style.display = 'none';
+  }
+});
+function updateFormAction() {
+  var form = document.getElementById("validationForm");
+  var validationType = document.getElementById("validation_type").value;
+  if (validationType === "single_table") {
+    form.action = "/validate";  // Change to the desired action for single table
+} else {
+    form.action = "/generat_report";  // Default action for other types
+}
+}
+  </script>
+</body>
+</html>

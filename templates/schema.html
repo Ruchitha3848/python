@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <header>
+    <h1>Schema to Schema Comparison Report</h1>
+  </header>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+  <!-- <a href="{{ url_for('Key_Matching') }}"><p>Key MisMatch</p></a>  Link to the Key_Matching route -->
+  
+  
+  <div class="report-container">
+    <div style="display: flex;">
+      
+      
+      <div class="left-column">
+     
+        <h3>Schema Name:</h3>
+        <p>Source Schema: {{ schema1_name }}</p>
+        <p>Target Schema: {{ schema2_name }}</p>
+      </div>
+      <div style="flex: 2; margin-left: 60px;">
+        <h3>Total Tables Count:</h3>
+        <p>Source Tables: {{ count_tables_source }}</p>
+        <p>Target Tables: {{ count_tables_target }}</p>
+        {% if count_tables_source != count_tables_target %}
+          <a href="{{ url_for('Key_Matching') }}" style="margin-top: -30px;" class="red bold-text">Non Existent Table</a>
+        {% else %}
+          <span style="margin-top: -10px;" class="green bold-text">Non Existent Table</span>
+        {% endif %}
+      </div>
+      <div style="flex: 1; margin-right: 30px;">
+        <h3>Unmatched Tables Count:</h3>
+        <p>Source Tables: {{ count_unmatched_tables_source }}</p>
+        <p>Target Tables: {{ count_unmatched_tables_target }}</p>
+      </div>
+    </div>
+  </div>
+  
+
+
+  <table class="report-table">
+    <thead>
+      <tr>
+        <th><h2>Source Tables</h2></th>
+        <th><h2>Target Tables</h2></th>
+        <th><h2>Results</h2></th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      {% for report in reports %}
+        <tr>
+          <td>
+            <h3>{{ report.table_name1 }} Table</h3>
+          </td>
+          <td>
+            <h3>{{ report.table_name2 }} Table</h3>
+          </td>
+          <td>
+            <div class="comparison_result {% if report.comparison_result %}true{% else %}false{% endif %}">
+              {% if report.comparison_result %}
+                <p>PASS</p>
+              {% else %}
+                <a href="{{ report.compare_url }}"><p>FAIL</p></a>
+              {% endif %}
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <header>
+    <h1>Multiple Files or Tables Data Quality Check Report</h1>
+  </header>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+  
+  <div class="report-container">
+    <div style="display: flex;">
+      <!-- Left Side -->
+      <div class="left-column" style="flex: 1; ">
+        <h3>Total Files Count:</h3>
+        <p>Source Files: {{ count_tables_source }}</p>
+        <p>Target Files: {{ count_tables_target }}</p>
+      </div>
+      
+      <div class="middle-section" style="flex: 1; margin: 0 10px;">
+        <h3>Matched Files Count:</h3>
+        <p>Source Files: {{ count_tables_source-count_unmatched_tables_source }}</p>
+        <p>Target Files: {{count_tables_target- count_unmatched_tables_target }}</p>
+        
+      </div>
+
+    <!-- Right Side -->
+      <div style="flex: 1;">
+        <h3>Unmatched Files Count:</h3>
+        <p>Source Files: {{ count_unmatched_tables_source }}</p>
+        <p>Target Files: {{ count_unmatched_tables_target }}</p>
+      </div>
+    </div>
+  </div>
+  
+  
+  <table class="report-table">
+    <thead>
+      <tr>
+        <th><h2>Source Tables</h2></th>
+        <th><h2>Target Tables</h2></th>
+        <th><h2>Results</h2></th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      {% for report in reports %}
+        <tr>
+          <td>
+            <h3>{{ report.table_name1 }}</h3>
+          </td>
+          <td>
+            <h3>{{ report.table_name2 }}</h3>
+          </td>
+          <td>
+            <div class="comparison_result {% if report.comparison_result %}true{% else %}false{% endif %}">
+              {% if report.comparison_result %}
+              <a href="{{ report.compare_pass_url }}"><p>PASS</p></a>
+              {% else %}
+                <a href="{{ report.compare_url }}"><p>FAIL</p></a>
+              {% endif %}
+            </div>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}

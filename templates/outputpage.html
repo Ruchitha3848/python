@@ -1,0 +1,22 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comparison Report</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style1.css') }}">
+</head>
+<body>
+    <!-- The content of the Flask view function will be inserted here -->
+    
+    {% if context.report %}
+       <p>hello</p>
+
+        {{ context.report | safe }}
+    {% else %}
+    <div style="background-color: green; ">Comparison Results: The data in the Source file completely matches the data in the Target table </div>
+    {% endif %}
+
+    
+</body>
+</html>

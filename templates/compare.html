@@ -1,0 +1,93 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+{% for report in reports %}
+    <div class="comparison_tagline">
+    {% if report.comparison_result %}
+
+    <div class="comparison_tagline true">
+    {% if report.file_table=="file"%}
+        <p>Comparison Results: The data in the Source file completely matches the data in the Target file</p>
+    {% else %}
+        <p>Comparison Results: The data in the Source table completely matches the data in the Target table</p>
+    {% endif %}
+    </div>
+    
+
+    </div>
+
+    {% else %}
+        {% if  report.count_unmatched_source>1000 or report.count_unmatched_target>1000%}
+            <div class="comparison_tagline false">
+                {% if report.total_comparision%}
+                    <p>Comparison Results: Source and target data do not match completely. Displaying deviation for 1000 Records here</p>
+                {% else %}
+                    <p>Comparison Results: Source and target data do not match for {{ report.count_unmatched_source }} records. Displaying deviation for 1000 Records here</p>
+                {% endif %}
+            </div>
+        {% else %}
+        <div class="comparison_tagline false">
+            {% if  report.total_comparision%}
+            {% if report.file_table=="file"%}    
+                <p>Comparison Results: The data in the Source file does not match completely the data in the Target file</p>
+            {% else %}
+                <p>Comparison Results: The data in the Source table does not match completely the data in the Target table</p>
+            {% endif %} 
+            {% else%}  
+            {% if report.file_table=="file"%}    
+                <p>Comparison Results: The data in the Source file does not match the data in the Target file</p>
+            {% else %}
+                <p>Comparison Results: The data in the Source table does not match the data in the Target table</p>
+            {% endif %} 
+            {% endif %}
+
+        </div>
+        {% endif %}   
+    {% endif %}
+    <div class="report-container">
+        <div style="display: flex;">
+            <div class="left-column">
+            {% if report.file_table=="file"%}  
+                <h3>File Count:</h3>
+            {% else %}
+                <h3>Table Count:</h3>
+            {%endif%}
+                <p>Source Count: {{  report.total_rows_source }}</p>
+                <p>Target Count: {{ report.total_rows_target }}</p>
+            </div>
+        
+           
+            <div style="flex: 1;">
+                <h4>Unmatched Data Count:</h4>
+                <p>Unmatched Source Count: {{ report.count_unmatched_source}}</p>
+                <p>Unmatched Target Count: {{ report.count_unmatched_target }}</p>
+            </div>
+            
+           
+        
+        
+        </div>
+    </div>
+  
+
+    {% if not report.total_comparision%}
+        
+    <div class="container">
+        <div class="left-table">
+            <h4>Unmatched data from Source:</h4>
+            {{ report.unmatched_rows_source_html|safe }}
+        </div>
+        <div class="right-table">
+            <h4>Unmatched data from Target:</h4>
+            {{ report.unmatched_rows_target_html|safe }}
+        </div>
+    </div>
+        
+    {% endif %}
+
+   
+
+{% endfor %}
+{% endblock %}

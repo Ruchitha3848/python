@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+{% for report in reports %}
+    <div class="comparison_tagline">
+    {% if report.comparison_result %}
+    <div class="comparison_tagline true" style="background-color: green;">
+      <p>Comparison Results: The data in the Source table completely matches the data in the Target table</p>
+    </div>
+    
+    {% endif %}
+    <div class="report-container">
+    <div style="display: flex;">
+        <div class="left-column">
+            <h3>Table Count:</h3>
+            <p>Source Count: {{  report.total_rows_source }}</p>
+            <p>Target Count: {{ report.total_rows_target }}</p>
+        </div>
+        <div style="flex: 1;">
+            <h4>Matched Data Count:</h4>
+            <p>Matched Source Count: {{ report.total_rows_source}}</p>
+            <p>Matched Target Count: {{ report.total_rows_target}}</p>
+        </div>
+    </div>
+    </div>
+    
+
+   
+
+{% endfor %}
+{% endblock %}

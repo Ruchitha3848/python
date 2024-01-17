@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+
+<header>
+    <h2 style="padding-left: 10px;">Non Existent Tables in Target</h2>
+</header>
+
+<table class="report-table" >
+    <thead>
+        <tr>
+            <th>Table Name</th>
+            <th>Schema Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{ table_name1 }}</td>
+            <td>{{ schema1_name }}</td>
+        </tr>
+    </tbody>
+</table>
+
+{% endblock %}

@@ -1,0 +1,360 @@
+COUNT|BUYER_NAME|BUYER_EMAIL_ADDRESS|BUYER_START_DATE|BUYER_BUSINESS_GROUP|LAST_UPDATE_DATE|BUYER_END_DATE|BUYER_ID
+359|Oster, Ms. Debra A|debra.oster@advisian.com|10-Nov-2011|WorleyParsons US|15-Jul-2018 20:32:42||147934
+359|Rathwell, Lori|Lori.Rathwell@Worley.com|28-Nov-2011|WorleyParsons CA|01-Oct-2020 12:53:02||151404
+359|Terrance, Deedra M|deedra.terrance@worley.com|10-Nov-2010|WorleyParsons US|10-Nov-2010 11:08:42||98326
+359|Dearmond, Ms. Cathy A|Cathy.DeArmond@worley.com|19-Mar-2010|WorleyParsons US|12-May-2010 16:30:59||95524
+359|Kern, Ms. Jill|Jill.Kern@WorleyParsons.com|19-Mar-2010|WorleyParsons US|19-Mar-2010 02:07:31||93934
+359|Caskey, Ms. Stacey Ann|Stacey.Caskey@worley.com|19-Mar-2010|WorleyParsons US|03-May-2010 17:36:54||93969
+359|Schaaf, Lynne Marie|Lynne.Schaaf@worley.com|20-Sep-2011|WorleyParsons CA|24-Aug-2016 09:24:45||130766
+359|Tovell, Nicole Marie|Nicole.Tovell@worley.com|20-Sep-2011|WorleyParsons CA|11-Oct-2017 20:22:10||130605
+359|Friedel, Robert Leon|Rob.Friedel@Worley.com|20-Sep-2011|WorleyParsons CA|04-Jul-2016 12:15:25||129633
+359|Steers, Kim|Kim.Steers@worley.com|20-Sep-2011|WorleyParsons CA|20-Nov-2015 11:31:50||133784
+359|Aragon, Carolyn|Carolyn.Aragon@worley.com|02-Oct-2012|WorleyParsons CA|21-Sep-2020 11:21:55||131856
+359|Mayo, Mr. Donald E|Donald.Mayo@WorleyParsons.com|22-Jan-2013|WorleyParsons US|22-Jan-2013 11:44:09||97611
+359|Paul, Danielle|Danielle.Campbell@WorleyParsons.com|18-Jun-2013|WorleyParsons CA|21-Apr-2016 16:18:57||134360
+359|Zaychkowsky, Jennifer|Jennifer.Zaychkowsky@worley.com|07-Oct-2013|WorleyParsons CA|21-Sep-2020 11:22:22||131423
+359|Domagas, Margarita Angeli|ANGELI.DOMAGAS@worley.com|06-Nov-2013|WorleyParsons CA|10-Dec-2013 16:15:44||169516
+359|Nicolas, Dion|Dion.Nicolas@worley.com|28-Jul-2019|WorleyParsons CA|28-Jul-2019 21:21:17||131159
+359|Harris, Ms. Naomi|Naomi.Harris@advisian.com|23-Jan-2020|WorleyParsons AU|23-Jan-2020 00:31:25||272818
+359|Semeniuk, Chelsea|Chelsea.Semeniuk@WorleyParsons.com|17-Dec-2020|WorleyParsons CA|17-Dec-2020 21:24:59||278871
+359|Saini, Gulshan|Gulshan.Saini@Worley.com|25-Jun-2015|WorleyParsons CA|07-Apr-2016 16:44:11||211256
+359|Jaafar, Ms. Nur Izati |NurIzati.Jaafar@WorleyParsons.com|09-Sep-2020|WorleyParsons MY|09-Sep-2020 15:35:30||320595
+359|Foronda, Mr. Raul Dela Cruz (Miggie Boy)|Raul.Foronda@worley.com|26-Oct-2020|WorleyParsons MY|26-Oct-2020 11:48:52||290963
+359|Mohd Salleh Rehad, Mr. Mohd Noor Izzat (Izzat)|Izzat.Salleh@worley.com|26-Oct-2020|WorleyParsons MY|26-Oct-2020 11:49:51||303206
+359|Mahabir, Ms. Reena|Reena.Mahabir@Worley.com|01-Nov-2020|WorleyParsons CA|01-Nov-2020 23:35:21||327360
+359|Freemantle, Ms. Heather P|Heather.Freemantle@Worley.com|01-Nov-2020|WorleyParsons CA|01-Nov-2020 23:48:22||327366
+359|Leung, Ms. Nancy|Nancy.Leung@Worley.com|02-Nov-2020|WorleyParsons CA|02-Nov-2020 00:13:32||327409
+359|Hiatt, Deborah L|Debi.Hiatt@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:14:56||343567
+359|Zhang, Yinghua|Angela.Zhang@Worley.com|02-Nov-2020|WorleyParsons CA|02-Nov-2020 00:15:46||327333
+359|Mares, Roxana|Roxana.Mares@Worley.com|02-Nov-2020|WorleyParsons CA|02-Nov-2020 00:16:26||327324
+359|Ocampo, Kathleen J|Kathy.Ocampo@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:17:17||346483
+359|Zhu, Jun|Jun.Zhu@worley.com|25-Nov-2020|WorleyParsons CA|25-Nov-2020 18:59:54||319406
+359|Wolf, Ms. Lynn (Lien)|Lynn.Wolf@worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:18:58||345146
+359|Anciso, Silvia L|Silvia.Anciso@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:23:15||346910
+359|Vickery, Sheliah A.|Sheliah.Vickery@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:23:15||357768
+359|Kidwai, Fawad|Fawad.Kidwai@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:23:51||343875
+359|Homsi, Shayna E.|Shayna.Homsi@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:24:44||344417
+359|Bhakta, Sourabh Jayeshkumar|Sourabh.Bhakta@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:25:12||344613
+359|Anderson, Mr. John C (Charles)|Charles.Anderson@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:26:06||345420
+359|Avilez, Ms. Yolanda|Yolanda.Avilez@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:28:05||345617
+359|Nguyen, Mr. Hieu H (Ringo)|Ringo.Nguyen@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:29:04||346312
+359|Flagg, Ms. Sharon Annette|Sharon.A.Flagg@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:30:35||346898
+359|Kwiatkowski, Mrs. Robin A|Robin.Kwiatkowski@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:32:53||345390
+359|Oswald, Ms. Cynthia Cantu (Cindy)|Cindy.Oswald@Worley.com|17-Mar-2021|WorleyParsons US|17-Mar-2021 03:33:24||344655
+359|Derbyshire, Mr. Douglas John|Douglas.Derbyshire@worley.com|16-Sep-2014|WorleyParsons AU|16-Sep-2014 02:31:11||170406
+359|Mola, Mrs. Casey|Casey.Roy@Worley.com|16-Sep-2014|WorleyParsons AU|16-Sep-2014 02:31:41||224544
+359|Onn, Mr. Ezzat H|Ezzat.H.Onn@Worley.com|04-Oct-2017|WorleyParsons US|04-Oct-2017 15:20:52||162897
+359|Garrecht, Nadine|nadine.garrecht@worleyparsons.com|12-Oct-2017|WorleyParsons CA|12-Oct-2017 19:48:26||151601
+359|Hartman, Mr. James|James.Hartman@WorleyParsons.com|16-Dec-2018|WorleyParsons AU|16-Dec-2018 21:38:31||284755
+359|van Dyk, Ana|Ana.vanDyk@advisian.com|27-May-2020|WorleyParsons AU|27-May-2020 14:01:56||264463
+359|Magliaro, Joseph J|Joseph.Magliaro@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:39:08||346454
+359|Nelson, Mrs. Vania Nichole|Vania.Nelson@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:40:49||344231
+359|Seshadri, Rajinikanthan|Rajinikanthan.Seshad@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:44:17||344305
+359|Pipitone, Leonardo Mario Leonardo|Leonardo.Pipitone@worley.com|02-Nov-2020|WorleyParsons AR|02-Nov-2020 00:45:40||364140
+359|Chapman, Mrs. Jennifer Alexandra Jennifer|Jennifer.Chapman@worley.com|02-Nov-2020|WorleyParsons AR|02-Nov-2020 00:46:04||364191
+359|Veloso, Mr. Fernando |Fernando.Veloso@Worley.com|02-Nov-2020|WorleyParsons CL|02-Nov-2020 00:46:53||362375
+359|Mylas, Ms. Lisa Rae|Lisa.Mylas@worley.com|02-Nov-2020|WorleyParsons AU|02-Nov-2020 00:46:53||364767
+359|Borton, Sarah L|Sarah.Borton@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:49:11||345600
+359|Prowd, Mr. Matthew James|Matthew.Prowd@worley.com|02-Nov-2020|WorleyParsons AU|02-Nov-2020 00:49:11||364947
+359|Castro, Carmen|Carmen.Castro@worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:49:11||342872
+359|Crosky, Jeffrey R (Jeffrey)|Jeff.Crosky@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:49:11||342677
+359|Graeber, Michael R (Michael)|Mike.Graeber@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:49:11||342741
+359|Uzbyakova, Ms. Anastasia Romanovna|Anastasia.Uzbyakova@Worley.com|02-Nov-2020|WorleyParsons US|02-Nov-2020 00:51:10||345957
+359|Gangurde, Sneha|Sneha.Gangurde@worley.com|02-Nov-2020|WorleyParsons IN|02-Nov-2020 00:51:10||367798
+359|St Jacques, Kathryn M|Kathryn.StJacques@Worley.com|02-Nov-2020|WorleyParsons CA|02-Nov-2020 00:51:10||327341
+359|Parr, Kenneth|Kenneth.Parr@Worley.com|02-Dec-2020|WorleyParsons US|02-Dec-2020 15:33:07||344049
+359|Aghajanians, Njdeh|Njdeh.Aghajanians@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:02:28||258231
+359|Aguilera, Miss Andrea Andrea|Andrea.Aguilera@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:02:57||364265
+359|Albright, Jeffrey L (Jeff)|Jeff.Albright@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:03:12||344387
+359|Allen, Mark|Mark.Allen2@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:03:33||327157
+359|Almada, Horacio Horacio|Horacio.Almada@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:03:44||364149
+359|Andujar, Mr. Gabriel (Gabe)|Gabriel.Andujar@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:03:59||346269
+359|Arnold, Camilla|Camilla.Arnold@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:04:14||327490
+359|Balaniuk, Mr. Diego Diego|Diego.Balaniuk@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:04:39||363997
+359|Baschera, Mr. Leonardo F Leonardo|Leonardo.Baschera@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:05:05||364402
+359|Bassila, Ms. Chadia|Chadia.Bassila@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:05:18||172377
+359|Bava, Marcos Marcos|Marcos.Bava@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:05:29||364131
+359|Beane, Raven A|Raven.Beane@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:05:44||346776
+359|Behnke, Mr. Paul M. (Paul)|Paul.Behnke@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:05:57||344639
+359|Benedetti, Ms. Noemi Noemi|Noemi.Benedetti@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:06:12||364390
+359|Benitez Mario Gelacio|Mario.Benitez@worley.com|16-Dec-2020|WorleyParsons MX|16-Dec-2020 23:06:28||339931
+359|Bicknell, Ms. Jeanette|Jeanette.Bicknell@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:06:57||327112
+359|Blanchard, Tracy L|Tracy.Blanchard@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:07:17||326653
+359|Boccardo, Mr. Pablo Pablo|Pablo.Boccardo@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:07:27||364459
+359|Boggio, Ms. Virginia Y Virginia|Virginia.Boggio@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:07:37||364403
+359|Bongiorno, Sergio Juan Sergio|Sergio.Bongiorno@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:07:49||364473
+359|Boyls, Sean E|Sean.Boyls@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:08:22||343648
+359|Breitkreutz, Mr. Bruce G|Bruce.Breitkreutz@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:08:39||327163
+359|Breytspraak, George M|Rick.Breytspraak@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:08:54||343682
+359|Brumley, Susanne H. (Susie)|Susie.Brumley@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:09:06||346946
+359|Buhajczuk, Mr. Eugenio Eugenio|Eugenio.Buhajczuk@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:09:35||364391
+359|Bullock, Mark A|Mark.Bullock@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:11:19||346588
+359|Bullock, Melinda|Melinda.Bullock@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:11:19||345186
+359|Burns, Julie L|Julie.Burns@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:11:19||343846
+359|Butchko, Ryan|Ryan.Butchko@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:11:19||166219
+359|Cacciante, Miss Laura Laura|Laura.Cacciante@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:11:19||364344
+359|Callahan, Thomas P|Thomas.Callahan@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:11:19||344160
+359|Calusio, Stephen D.|Stephen.Calusio@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:11:19||344456
+359|Campbell, Lisa Catherine|Lisa.Campbell@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:11:19||344079
+359|Carraway, Urvashi|Urvashi.Carraway@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:13:46||344490
+359|Castorena, Adriana Guadalupe (Adriana)|Adriana.Castorena@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:13:46||345486
+359|Chen, Ms. Gui Fang|Grace.F.Chen@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:13:46||151903
+359|Cheng, Li|Lily.Cheng@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:13:46||327478
+359|Chin, Larry|Larry.Chin@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:13:46||327158
+359|Clennon, Jacqueline|Jackie.Clennon@WorleyParsons.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:13:46||131510
+359|Cochet, Darcy R|Darcy.Cochet@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:13:46||326645
+359|Cori Rodriguez, Edwin R|Edwin.Cori@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:13:46||327517
+359|Covi, Mr. Mariano Mariano|Mariano.Covi@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:13:46||364283
+359|Curphey, Kim G (Kim)|Kim.Curphey@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:13:46||347156
+359|Dagotto, Esteban Dario Esteban|Esteban.Dagotto@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:19:03||364150
+359|Dapena Garay, Mr. Valentin Valentin|Valentin.Dapena@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:19:03||364461
+359|Di Biase, Mr. Franco Paolo Franco|Franco.Dibiase@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:19:03||364151
+359|Di Matteo, Mr. Miguel Angel Miguel|Miguel.Dimatteo@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:19:03||364372
+359|Diaz, Ms. Patricia|Patricia.Diaz@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:19:03||346728
+359|Dickie, Allan|Allan.Dickie@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:19:03||327822
+359|Durkan, Mr. Michael P|Michael.Durkan@WorleyParsons.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:19:03||95605
+359|Durr, Mr. Michael|Michael.Durr@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:19:03||344649
+359|Elledge, Mr. Matthew V. (Matthew)|Matt.Elledge@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:19:03||344887
+359|Ennis, Ms. Charmaine J|Charmaine.Ennis@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:19:03||349156
+359|Fifita, Winnona M|Winnona.Fifita@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:21:43||344358
+359|Foret, Clay M|Clay.Foret@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:21:43||344351
+359|Freites, Mrs. Jorgelina Jorgelina|Jorgelina.Freites@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:21:43||364343
+359|Frolova, Miss Yuliya|Julia.Frolova@worley.com|16-Dec-2020|WorleyParsons UK|16-Dec-2020 23:21:43||159818
+359|Fuentes Noemi|Noemi.Fuentes@worley.com|16-Dec-2020|WorleyParsons MX|16-Dec-2020 23:23:33||339918
+359|Ganly, Maria|Maria.Ganly@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:23:33||364060
+359|Garrido, Mr. Jorge L Jorge|Jorge.Garrido@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:23:33||364367
+359|Geene , E|Erwin.Geene@worley.com|16-Dec-2020|WorleyParsons NL|16-Dec-2020 23:23:33||366057
+359|Ginige, Kashyapa A|Kash.Ginige@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:23:33||326356
+359|Gogia, Perminder|Perminder.Gogia@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:23:33||224680
+359|Gomes, Mr. Sergio Sergio|Sergio.Gomes@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:25:52||364462
+359|Gomez, Mrs. Gabriela Noemi Gabriela|Gabriela.Gomez@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:25:52||364205
+359|Gonzalez Brughetti, Lucas Emilio Lucas|Lucas.Gonzalezbrughe@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:25:52||363982
+359|Grabowska, Miss Klaudia|Klaudia.Grabowska@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:25:52||327136
+359|Granados-Smith, Ms. Patricia (Trish)|Trish.Smith@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:25:52||346730
+359|Guy, Garry Grant|Garry.Guy@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:25:52||326711
+359|Hall, Christa A|Christa.Hall@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:25:52||359487
+359|Hannah, David W|David.Hannah@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:25:52||343485
+359|Harris, Mrs. Ann|Ann.Harris@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:25:52||327390
+359|Henley, Mrs. Jennifer Breanne (Jennifer)|Jennifer.Henley@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:25:52||342687
+359|Herbon, Mr. Fernando Sebastian Fernando|Fernando.Herbon@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:25:52||364332
+359|Hijazi, Abdurahman|Abdu.Hijazi@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:25:52||132494
+359|Hilton, Vicki L|Vicki.Hilton@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:28:18||343397
+359|Hochi, Paul S|Paul.Hochi@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:28:18||343515
+359|Hollier, Robert D|Robert.Hollier@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:28:18||343361
+359|Hsiao, Yung Chun|Charlie.Hsiao@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:28:18||167428
+359|HuJiali MS.|Hellen.Hu@worley.com|16-Dec-2020|WorleyParsons CN|16-Dec-2020 23:28:18||363645
+359|Hunt, Toney A|Toney.Hunt@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:28:18||359573
+359|Hussainy Syed, Mr. Nayamath|nayamath.syed@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:28:18||327094
+359|Iyer, Vivek|Vivek.Iyer@worley.com|16-Dec-2020|WorleyParsons IN|16-Dec-2020 23:28:18||367125
+359|Johnstone, Shelley L|Shelley.Johnstone@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:28:18||326543
+359|Jones, Lori Blundell|Lori.Jones@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:28:18||344461
+359|Jordans, Joanne|Joanne.Jordans@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:28:18||131494
+359|Keenahan, Ms. Debra .|Debbie.Keenahan@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:30:27||326750
+359|Keller, Mr. Joshua (Joshua)|Joshua.Keller@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:30:27||342699
+359|Kemmet, Tony|Tony.Kemmet@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:30:27||343188
+359|Kennedy, Raymond G|Ray.Kennedy@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:30:27||326641
+359|Schilperoort, Mr. Gerardus Johannes (Gert-Jan)|GertJan.Schilperoort@worley.com|21-May-2014|WorleyParsons AU|21-May-2014 17:24:04||31110
+359|Jones, Mrs. Carrie Jade|Carrie.Jones@worley.com|05-Nov-2014|WorleyParsons AU|05-Nov-2014 21:09:01||78171
+359|Goodlad, Mrs. Yvonne|Yvonne.Goodlad@Advisian.com|05-Nov-2014|WorleyParsons AU|05-Nov-2014 21:09:31||3193
+359|Belland, Robert|Robert.Belland@worleyparsons.com|03-Dec-2017|WorleyParsons CA|03-Dec-2017 21:15:35||228125
+359|Fialho, Ms. Marlie|Marlie.Fialho@advisian.com|02-Apr-2020|WorleyParsons AU|02-Apr-2020 03:37:21||314771
+359|Blair, Ms. Briony|Briony.Blair@worley.com|12-Jul-2020|WorleyParsons AU|12-Jul-2020 23:42:53||299549
+359|Van Nierop, Ms. Megan Jayne|Megan.Vannierop@Worley.com|01-Dec-2020|WorleyParsons AU|01-Dec-2020 11:03:42||365435
+359|Kerr, Wanda|Wanda.Kerr@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:30:27||326492
+359|Kerry, Heather E|Heather.Kerry@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:30:27||343472
+359|Kesslering, Miss Lynn|Lynn.Kesslering@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:30:27||327142
+359|Kovach, Mr. Ruben Daniel Ruben|Ruben.Kovach@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:30:27||364417
+359|Kuba, Ms. Yvonne|Yvonne.Kuba@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:30:27||327417
+359|Kuntz, Jo A|Joann.Kuntz@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:30:27||343343
+359|Landgren, Mr. Erik (Erik)|Erik.Landgren@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:32:56||344880
+359|Lay, Wendy R|Wendy.Lay@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||326812
+359|Lealiou, Marilyn R (Lynn)|Lynn.Lealiou@advisian.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:32:56||346583
+359|Leclair, Aurelie|Aurelie.Leclair@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||327287
+359|Lee, Clarence Ho-Yen|Clarence.Lee@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||129897
+359|Lew, Ms. Belinda|Belinda.Lew@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||327282
+359|Libke, Bryce Marshall|Bryce.Libke@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||133793
+359|Lima, Alvaro Alvaro|Alvaro.Lima@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:32:56||364352
+359|Lin, Kuan-Ting (George)|George.Lin@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:32:56||344248
+359|Lopez, Lutgardo|Lutgardo.Lopez@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||326621
+359|Louie, Susan|Susan.Louie@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:32:56||326716
+359|Loveless, Mr. Johan Aris|Johan.Loveless@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:32:56||188309
+359|Lucio, Galvan|Yamil.Lucio@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:36:28||342845
+359|Machuca, Lucas M|Lucas.Machuca@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:36:28||326569
+359|Mancino, Jorgelina Andrea Jorgelina|Jorgelina.Mancino@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:36:28||364313
+359|Maresca, Mr. Enrique Eduardo Enrique|Enrique.Maresca@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:36:28||364166
+359|McDonald, Tamie L|Tamie.Mcdonald@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:36:28||343680
+359|Melendez, Mr. Felix F (Felix)|Felix.Melendez@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:36:28||342693
+359|Methol, Maria Victoria Maria|Maria.Methol@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:36:28||364115
+359|Michel, Mr. Ruben Javier Ruben|Ruben.Michel@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:36:28||364263
+359|Micheloud, Mrs. Antonella Denise Antonella|Antonella.Micheloud@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:36:28||364001
+359|Mitchell, Ms. Anzolette S|Anzolette.Mitchell@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:36:28||345972
+359|Mobley, Mark K (Mark)|Mark.Mobley@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:36:28||347261
+359|Mokrousova, Mrs. Evgenia|Evgenia.Mokrousova@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:36:28||327299
+359|Moore, Jennifer|Jennifer.Moore@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:36:28||131649
+359|Mukherjee, Mr. Satyabrata|Satyabrata.Mukherjee@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:36:28||326815
+359|Muñagorri, Maria Eugenia Maria|Maria.Munagorri@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:36:28||364118
+359|Nett, Ms. Pamela (Pam)|Pam.Nett@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:38:32||348114
+359|Ng, Mr. Chin Hua Josh Josh|Josh.Ng@Worley.com|16-Dec-2020|WorleyParsons AU|16-Dec-2020 23:38:32||365451
+359|Ng, Ms. Julie|Julie.Ng@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:38:32||327402
+359|Niemi, Arthur John|AJ.Niemi@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:38:32||260939
+359|O'Dell, Mrs. Michele Christianna (Michele)|Michele.Odell@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:38:32||346664
+359|Ogut, Mr. Ozgur|Ozgur.Ogut@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:38:32||345361
+359|Okabayashi, Harry V|Harry.Okabayashi@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:38:32||344123
+359|Okanlawon, Foluke A|Foluke.Okanlawon@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:38:32||326712
+359|Olguin Jose Jesus|Jose.Olguin@worley.com|16-Dec-2020|WorleyParsons MX|16-Dec-2020 23:38:32||339900
+359|Ortiz, Mrs. Janet L (Janet)|Janet.Ortiz@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:38:32||346359
+359|Palacios, Facundo Gerardo Facundo|Facundo.Palacios@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:38:32||364465
+359|Paredes, Mr. Hugo Rolando |Hugo.Paredes2@Worley.com|16-Dec-2020|WorleyParsons CL|16-Dec-2020 23:38:32||362205
+359|Parodi, Mr. Juan Juan|Juan.Parodi@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:38:32||364010
+359|Patil, Ninad|Ninad.Patil@worley.com|16-Dec-2020|WorleyParsons IN|16-Dec-2020 23:40:26||369280
+359|Peralta Zoila Susana|Susana.Peralta@worley.com|16-Dec-2020|WorleyParsons MX|16-Dec-2020 23:40:26||339829
+359|Perez, Mr. Juan Carlos|Juancarlos.Perez@Worley.com|16-Dec-2020|WorleyParsons PE|16-Dec-2020 23:40:26||361043
+359|Perez, Mr. Ramiro G|Ramiro.Perez@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:40:26||345560
+359|Perozo, Mr. Felix Alberto Felix|Felix.Perozo@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:40:26||364203
+359|Pistarini, Mr. Hector Fabian|Hector.Pistarini@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:40:26||364428
+359|Potus, Diego Norberto Diego|Diego.Potus@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:40:26||364132
+359|Praino, Mr. Fabian Horacio Fabian|Fabian.Praino@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:40:26||364429
+359|Rabone, Mr. David John Dave|Dave.Rabone@worley.com|16-Dec-2020|WorleyParsons AU|16-Dec-2020 23:40:26||365266
+359|Ramos, Mr. Jesander Alberto Jesander|Jesander.Ramos@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:40:26||364235
+359|Resendez, Idalia (Dolly)|Dolly.Resendez@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:40:26||344165
+359|Retamar, Lionela Yamile Lionela|Lionela.Retamar@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:40:26||364129
+359|Rice, Mr. Timothy Dean Tim|Tim.Rice@worley.com|16-Dec-2020|WorleyParsons AU|16-Dec-2020 23:40:26||365271
+359|Richards, John B|John.Richards@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:40:26||344128
+359|Rios, Sebastian Ariel Sebastian|Sebastian.Rios@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:43:21||364322
+359|Rodriguez, Mr. Juan Carlos Juan|Juan.Rodriguez1@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:43:21||364364
+359|Sabia, Ms. Maria Laura Laura|Laura.Sabia@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:43:21||364247
+359|Sahoo, Mitali|Mitali.Sahoo@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||153767
+359|Sahoo, Sanjay|Sanjay.Sahoo@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||230656
+359|Salama, Michael Adel (Mike)|Michael.A.Salama@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:43:21||345020
+359|Saler, Kari L|Kari.Saler@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||326555
+359|Samaroo, Maheshwar Adrian|Adrian.Samaroo@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||327496
+359|San Giorgio, Mr. Guido Guido|Guido.Sangiorgio@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:43:21||363995
+359|Saretzky, Mr. Bryan|Bryan.Saretzky@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||327414
+359|Sastre Josue Kaleb|Josue.Sastre@worley.com|16-Dec-2020|WorleyParsons MX|16-Dec-2020 23:43:21||339903
+359|Saxon, Mrs. Bonnie|Bonnie.Saxon@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||327317
+359|Scheffel, Patricia|Patricia.Scheffel@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:43:21||327521
+359|Schlee, Mr. Michael M|Michael.Schlee@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:43:21||346659
+359|Scott, Marisa|Marisa.Scott@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:43:21||342997
+359|Sexton, Joe H|Joe.Sexton@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:45:03||351764
+359|Shapiro, Mr. David M|David.Shapiro@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:45:03||344722
+359|Shubert, Mr. Michael Anthony|Michael.Shubert@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:45:03||351819
+359|Silva, Miss Catalina Silvana |Catalina.Silva1@Worley.com|16-Dec-2020|WorleyParsons CL|16-Dec-2020 23:45:03||362340
+359|Simpson, Darrin L|Darrin.Simpson@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:45:03||344011
+359|Sirio, Mr. Federico Martin Federico|Federico.Sirio@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:45:03||364299
+359|Skelton, Miss Bridget L|Bridget.Skelton@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:45:03||351878
+359|Smith, Luke M (Luke)|Luke.M.Smith@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:45:03||348064
+359|Stengel, Thomas|Thomas.Stengel@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:45:03||302412
+359|Sukumar, Doctor Alady P|Alady.Sukumar@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:45:03||327498
+359|Taylor, Doctor David Anthony|David.A.Taylor@worley.com|16-Dec-2020|WorleyParsons UK|16-Dec-2020 23:45:25||342603
+359|Thompson, Mrs. Tamara (Tammy)|Tammy.Thompson@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||346949
+359|Tolin, Ruth Ann|Ruth.Tolin@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||343340
+359|Trillanes, Mrs. Emelina Coronado|Emie.Trillanes@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:51:50||327198
+359|Tsingas, Dario Dario|Dario.Tsingas@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364147
+359|Vacarreza Moya, Jesus Hernan Jesus|Jesus.Vacarrezamoya@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364218
+359|Van Meeteren, Ronald W|Ronald.Vanmeeteren@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:51:50||326658
+359|Vargas, Elena F|Elena.Vargas@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||345523
+359|Vega, Mr. Francisco Lisandro Lisandro Lisandro|Lisandro.Vega@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364445
+359|Velasquez, Alex Ernesto Alex|Alex.Velasquez@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364312
+359|Venters, Carole A|Carole.Venters@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||344102
+359|Villaroman, Mrs. Josie P.|Josie.Villaroman@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:51:50||327296
+359|Villegas, Ms. Lupe|Lupe.Villegas@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||93729
+359|Walker, Wade M|Wade.Walker@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||348939
+359|Wehbe, Albert M|Albert.Wehbe@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||344018
+359|Wheelahan, Keith John|Keith.Wheelahan@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||345526
+359|Wilkerson, Brian J|Brian.Wilkerson@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||348328
+359|Williams, Tammy L (Tammy)|Tammy.Williams@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||342747
+359|Womack, Mr. Charles Anthony|Charlie.Womack@worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||346077
+359|Wong, Mrs. Helen|Helen.Wong@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:51:50||327137
+359|Wyvill, Mr. David C (Dave)|Dave.Wyvill@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||346175
+359|Yaros, Jennifer A|Jennifer.Yaros@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||346392
+359|Yolis, Julian Julian|Julian.Yolis@worley.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364143
+359|Yox, Mr. Jeffrey N (Jeff)|Jeff.Yox@Worley.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:51:50||343653
+359|Zepeda Roman|Roman.Zepeda@worley.com|16-Dec-2020|WorleyParsons MX|16-Dec-2020 23:51:50||339952
+359|Zia, Mr. Yasin|Yasin.Zia@Worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:51:50||327206
+359|Zubiri, Kenneth|Kenneth.Zubiri@worley.com|16-Dec-2020|WorleyParsons CA|16-Dec-2020 23:51:50||315034
+359|Kuriss, Miss Anabel Anabel|Anabel.Kuriss@advisian.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364276
+359|Anderson, Miss Narelle|Narelle.Anderson@worley.com|19-Feb-2014|WorleyParsons AU|13-May-2014 09:50:34||192310
+359|Boyes, Mr. Christopher Chris|Chris.Boyes@worley.com|26-Aug-2014|WorleyParsons AU|26-Aug-2014 19:12:49||150390
+359|Rousset, Ms. Sally|Sally.Rousset@worley.com|26-Aug-2014|WorleyParsons AU|26-Aug-2014 19:18:43||6642
+359|Biddiscombe, Ms. Kym Naomi|Kym.Biddiscombe@worley.com|26-Aug-2014|WorleyParsons AU|26-Aug-2014 19:20:13||5529
+359|Craig, Ms. Lauren|Lauren.Craig@worley.com|26-Aug-2014|WorleyParsons AU|26-Aug-2014 19:24:37||198943
+359|Juricev, Mrs. Felicia Blair|Felicia.B.Juricev@Advisian.com|26-Aug-2014|WorleyParsons AU|26-Aug-2014 19:26:27||116930
+359|Lenzo, Ms. Karen|Karen.Lenzo@worley.com|26-Aug-2014|WorleyParsons AU|26-Aug-2014 19:27:09||4007
+359|Quinton, Andrea|Andrea.Quinton@worley.com|12-Mar-2018|WorleyParsons CA|12-Mar-2018 23:24:51||131349
+359|Treveton, Ms. Simone|Simone.Treveton@worley.com|17-Jul-2019|WorleyParsons AU|17-Jul-2019 22:50:58||246523
+359|Galicia, Ms. Maria Theresa (Theresa)|Maria.Galicia@WorleyParsons.com|29-Sep-2019|WorleyParsons MY|29-Sep-2019 22:26:27||297737
+359|Bisso, María Julia María|Maria.Bisso@advisian.com|16-Dec-2020|WorleyParsons AR|16-Dec-2020 23:51:50||364213
+359|Hicks, Mr. Duane D (Duane)|Duane.Hicks@advisian.com|16-Dec-2020|WorleyParsons US|16-Dec-2020 23:59:10||344868
+359|Moody, Ms. Kelly Crochet (Kelly)|Kelly.Moody@advisian.com|17-Dec-2020|WorleyParsons US|17-Dec-2020 00:02:14||344837
+359|Weaver, Laura E|Laura.Weaver@advisian.com|17-Dec-2020|WorleyParsons US|17-Dec-2020 00:02:43||344301
+359|Marques, Miss maria Daniela maria|Maria.Marques@advisian.com|17-Dec-2020|WorleyParsons AR|17-Dec-2020 00:03:45||364214
+359|Piedrahita Hincapie, Miss Maria Maria|Maria.Piedrahitahinc@advisian.com|17-Dec-2020|WorleyParsons AR|17-Dec-2020 00:03:45||364277
+359|Ucar, Miss Maria Maria|Maria.Ucar@advisian.com|17-Dec-2020|WorleyParsons AR|17-Dec-2020 00:04:03||364271
+359|Repetti, Miss Sofia Daniela Sofia|Sofia.Repetti@advisian.com|17-Dec-2020|WorleyParsons AR|17-Dec-2020 00:05:58||364275
+359|Murphy, Valerie|VALERIE.MURPHY@advisian.com|17-Dec-2020|WorleyParsons CA|17-Dec-2020 00:06:20||133260
+359|Brown, Yasmin R|Yasmin.Brown@advisian.com|17-Dec-2020|WorleyParsons US|17-Dec-2020 00:06:31||343656
+359|Murugan, Mr. Hashvin Nair (Hashvin)|Hashvin.Murgan@worley.com|11-Jan-2021|WorleyParsons MY|10-Jan-2021 23:50:43||309700
+359|Bin Zubairi, Mr. Muhamad Izmul Aiman (Izmul)|Izmul.Zubairi@worley.com|11-Jan-2021|WorleyParsons MY|10-Jan-2021 23:52:04||315153
+359|Ogiah, Moses|moses.ogiah@worley.com|18-Jan-2021|WorleyParsons CA|18-Jan-2021 01:42:53||373831
+359|Najam, Mr. Abbas (Abbas)|Abbas.Najam@Worley.com|27-Jan-2021|WorleyParsons US|27-Jan-2021 11:45:38||344918
+359|Pleasants, Ryan Phillip|Ryan.Pleasants@Worley.com|21-Feb-2021|WorleyParsons US|21-Feb-2021 16:02:26||346859
+359|Pham, Kim T|Kim.Pham@Worley.com|03-Mar-2021|WorleyParsons US|03-Mar-2021 15:38:37||344211
+359|Anderson, Charles E|Chuck.Anderson@Worley.com|03-Mar-2021|WorleyParsons US|03-Mar-2021 15:41:13||348604
+359|Cazes, Grace P|Grace.Cazes@Worley.com|03-Mar-2021|WorleyParsons US|03-Mar-2021 15:43:01||344026
+359|Bond, Evon B|Evon.Bond@Worley.com|03-Mar-2021|WorleyParsons US|03-Mar-2021 15:44:14||343464
+359|Cummings, Donald P|Don.Cummings@Worley.com|03-Mar-2021|WorleyParsons US|03-Mar-2021 15:46:17||344130
+359|Waterwitch, Ms. Samantha Lynne|Samantha.Waterwitch@Worley.com|15-Mar-2021|WorleyParsons AU|15-Mar-2021 22:56:39||365471
+359|Mitchell, Ms. Joanne|joannemijuan@icloud.com|15-Mar-2021|WorleyParsons AU|15-Mar-2021 23:05:27||364756
+359|Seccull, Ms. Louise Jill|louise.j.seccull@worley.com|25-Sep-2014|WorleyParsons AU|25-Sep-2014 02:12:51||5476
+359|Potter, Ms. Kimberly Renee|Kimberley.Potter@worley.com|23-Mar-2017|WorleyParsons US|23-Mar-2017 15:29:33||93955
+359|Shambrook, Miss Catherine|Catherine.Shambrook@Worley.com|30-Jan-2018|WorleyParsons AU|30-Jan-2018 02:52:59||109090
+359|Abdul Ghani, Mr. Muhammad Amirruddin (Amir)|Amirruddin.Ghani@worleyparsons.com|03-Oct-2019|WorleyParsons MY|03-Oct-2019 21:05:03||287245
+359|Opena, Ms. Bernadette Ann Decipeda (Bernadette)|Bernadette.Decipeda@worleyparsons.com|03-Oct-2019|WorleyParsons MY|03-Oct-2019 21:06:38||290296
+359|Abd Laziz, Ms. Nur Fatin Sakinah (Sakinah)|Sakinah.Laziz@worley.com|26-May-2020|WorleyParsons MY|26-May-2020 18:11:56||316768
+359|Green, Ms. Chaulandra Monique|Chaulandra.Green@worley.com|09-Sep-2020|WorleyParsons US|09-Sep-2020 14:38:19||191330
+359|Derkzen, Jody|Jody.Derkzen@WorleyParsons.com|24-Nov-2020|WorleyParsons CA|24-Nov-2020 10:03:23||305616
+359|Cruz, Kimberly|Kim.Cruz@worley.com|24-Nov-2020|WorleyParsons CA|24-Nov-2020 10:03:57||317314
+359|Ferreira, Monica|Monica.Ferreira@Worley.com|24-Nov-2020|WorleyParsons CA|24-Nov-2020 10:05:07||130327
+359|Martin, Tracy|Tracy.Martin@WorleyParsons.com|24-Nov-2020|WorleyParsons CA|24-Nov-2020 10:06:10||130319
+359|Koh, Ms. Swee Lian |Swee.Lian.Koh@worley.com|28-Apr-2014|WorleyParsons MY|28-Apr-2014 20:05:09||212388
+359|Isard, Mrs. Tammie|Tammie.Isard@worley.com|13-Jan-2015|WorleyParsons AU|13-Jan-2015 15:14:03||229087
+359|Syed Nazri, Mrs. Sharifah Hazariah |Sharifah.Hazariah@worley.com|30-Jun-2016|WorleyParsons MY|30-Jun-2016 22:29:59||220587
+359|Arif Normin, Mr. Mohd Ashraf |Mohd.Ashraf@worley.com|30-Jun-2016|WorleyParsons MY|30-Jun-2016 22:29:59||239462
+359|Edwards, Mr. Chris Paul|Chris.Edwards@worley.com|10-Oct-2016|WorleyParsons UK|10-Oct-2016 00:38:52||32663
+359|Sherlock, Ms. Angela|Angela.Sherlock@Advisian.com|13-Jun-2017|WorleyParsons AU|13-Jun-2017 03:36:59||155470
+359|Goulet, Leah Terese|Leah.Goulet@Worley.com|25-Apr-2019|WorleyParsons US|25-Apr-2019 02:00:54||239241
+359|Mohd Nor, Ms. Siti Hajar (Hajar)|Hajar.Nor@worleyparsons.com|23-May-2019|WorleyParsons MY|23-May-2019 01:37:00||296416
+359|Blake, Ms. Dionne|Dionne.Blake@worley.com|04-Jul-2019|WorleyParsons AU|04-Jul-2019 00:45:21||295200
+359|Brant, Georgia W|Georgia.Brant@Worley.com|07-Jan-2021|WorleyParsons US|07-Jan-2021 11:24:18||346281
+359|Tipton, Mrs. Michelle Lynn (Michelle)|Michelle.L.Tipton@Worley.com|09-Feb-2021|WorleyParsons US|09-Feb-2021 15:34:35||346667
+359|Bhuyan, Gitanjali|Gitanjali.Bhuyan@WorleyParsons.com|04-Mar-2021|WorleyParsons MY|17-Mar-2021 22:02:51||246581
+359|Baigent, Michael|Michael.Baigent@WorleyParsons.com|27-Mar-2017|WorleyParsons CA|27-Mar-2017 22:04:37||133098
+359|Kruithof, Ms. Clarissa Lea|Clarissa.Kruithof@gmail.com|08-Jul-2018|WorleyParsons AU|08-Jul-2018 23:29:07||162181
+359|Blair, Mr. Steven (Steve)|Steven.Blair@worley.com|22-Jul-2018|WorleyParsons AU|22-Jul-2018 20:16:18||64547
+359|Muller, Mr. Alwyn|Alwyn.Muller@worley.com|11-Dec-2018|WorleyParsons AU|11-Dec-2018 00:33:04||105921
+359|Price, Mr. Jeremy Moore Jeremy|Jeremy.M.Price@Worley.com|14-Apr-2019|WorleyParsons AU|14-Apr-2019 20:42:04||280700
+359|Lim, Mr. De Hui (Dexter)|Dehui.Lim@worley.com|08-Jul-2020|WorleyParsons MY|08-Jul-2020 22:58:05||294995
+359|Abrahan, Ms. Roselyn (Roselyn)|Roselyn.Abrahan@worley.com|08-Jul-2020|WorleyParsons MY|08-Jul-2020 23:02:42||291557
+359|Turiano, Ms. Nadia Marasigan (Nadia)|Nadia.Turiano@worleyparsons.com|08-Jul-2020|WorleyParsons MY|08-Jul-2020 23:04:21||290293
+359|Mohd Hassan, Mr. Azfar Redzuan (Azfar)|Azfar.Hassan@worley.com|08-Jul-2020|WorleyParsons MY|08-Jul-2020 23:05:05||271181
+359|Qamar, Mr. Mian Muhammad Fayyaz Mian Qamar|Mian.Qamar@Worley.com|29-Sep-2020|WorleyParsons AU|29-Sep-2020 16:14:42||319765
+359|Harris, Emily K|Emily.Harris@Worley.com|10-Dec-2020|WorleyParsons US|10-Dec-2020 10:52:14||343899
+359|Barna, Ms. Hana|Hana.Barna@worley.com|27-Oct-2014|WorleyParsons AU|27-Oct-2014 19:11:48||125504
+359|Co, Ms. Sheila|Sheila.Co@worley.com|25-Mar-2015|WorleyParsons AU|25-Mar-2015 04:09:36||219646
+359|Eikeland, Robert|Robert.eikeland@worleyparsons.com|17-Jul-2019|WorleyParsons CA|17-Jul-2019 01:08:07||253029
+359|Albuquerque, Vinicius (Vinny)|Vinny.Albuquerque@Worley.com|30-Sep-2020|WorleyParsons US|30-Sep-2020 16:48:13||296858
+359|Henry, Susan L (Shelly)|Shelly.Henry@Worley.com|10-Dec-2020|WorleyParsons US|10-Dec-2020 06:25:07||344139
+359|Louis, Paula C|Paula.Louis@Worley.com|10-Dec-2020|WorleyParsons US|10-Dec-2020 06:26:34||344368
+359|Yakaria, Ms. Herni |herni.yakaria@worley.com|31-Jul-2014|WorleyParsons MY|31-Jul-2014 00:39:02||162155
+359|Yong, Mrs. Pei Fang |Yong.Pei.Fang@worley.com|31-Jul-2014|WorleyParsons MY|31-Jul-2014 00:39:40||184519
+359|Lesmana, Mr. Robby |Robby.Lesmana@worley.com|31-Jul-2014|WorleyParsons MY|31-Jul-2014 00:40:13||192439
+359|Anderson, Ms. Belinda|Belinda.Anderson@worley.com|20-Aug-2014|WorleyParsons AU|20-Aug-2014 21:27:00||14167
+359|Lunn, Carrie-Anne|Carrie-Anne.Lunn@worley.com|04-Jul-2016|WorleyParsons CA|24-Aug-2016 09:25:24||133357
+359|Shanbhag, Vishal|Vishal.Shanbhag@WorleyParsons.com|06-Oct-2016|WorleyParsons IN|06-Oct-2016 21:48:02||249961
+359|Klick, Mr. Jeffrey J|Jeffrey.Klick@worley.com|30-Mar-2017|WorleyParsons US|30-Mar-2017 00:56:03||97077
+359|Abdul Rahhim, Ms. Amira Syahazawani (Amira)|Amira.Rahhim@worleyparsons.com|17-May-2017|WorleyParsons MY|17-May-2017 05:05:24||262637
+359|Lopez, Jhon|Jhon.Lopez@worley.com|12-Feb-2019|WorleyParsons CA|12-Feb-2019 17:09:13||232529
+359|Gill, Ravinder|Ravinder.Gill@WorleyParsons.com|14-Aug-2019|WorleyParsons CA|14-Aug-2019 01:59:32||296573
+359|Liu, Feng|Feng.Liu2@worley.com|14-Aug-2019|WorleyParsons CA|14-Aug-2019 01:59:11||129946
+359|Bennett, Mr. James|James.Bennett@worley.com|03-Feb-2021|WorleyParsons US|03-Feb-2021 07:04:04||96565
+359|Nguyen, Ms. Amanda Lam|Amanda.Nguyen@Worley.com|03-Feb-2021|WorleyParsons US|03-Feb-2021 15:36:38||345951
